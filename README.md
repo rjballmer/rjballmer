@@ -1,29 +1,30 @@
 # Ryan Ballmer
 
-I build operating systems for complex technical work: infrastructure programs, AI-enabled workflows, and agentic systems with clear safety boundaries.
+I build operating systems for complex technical work: hyperscale infrastructure programs, AI-enabled workflows, and agentic systems with clear safety boundaries.
 
-My recent public work focuses on practical AI systems that turn noisy real-world information into useful decisions without losing privacy, verification, or human control.
+My current public work is a set of practical AI-native experiments for getting real work done: turning noisy information into goals, plans, protected time, family logistics, wellness feedback, and verified action.
 
 ## Current focus
 
-- **Agentic AI workflows** — skills, prompts, state models, validation contracts, and human-in-the-loop safety design
-- **Infrastructure and platform execution** — planning systems, reliability, security, capacity, and cross-functional operating rhythms
-- **AI adoption with judgment** — using AI to accelerate work while preserving review gates, evidence quality, and accountability
+- **AI-native GSD systems** — converting work signals into goals, plans, time, and impact
+- **Agentic AI architecture** — skills, hooks, memory, state, MCP/adapters, scheduled jobs, and verification patterns
+- **Infrastructure execution** — planning systems, reliability, security, capacity, and cross-functional operating rhythms at scale
+- **Practical human systems** — family operations, school logistics, wellness experiments, and AI tools that respect privacy and review boundaries
 
 ## Featured work
 
-### School Portal Digest
-A privacy-first OpenClaw skill that scans authenticated school portals in read-only mode and produces parent-facing digests: action items, child-specific calendar signals, and lightweight check-in guidance.
+### GSD-AI
 
-Why it matters:
-- Defines safe agent behavior around sensitive authenticated data
-- Separates useful signal from school-portal noise
-- Uses local state, schemas, validation, tests, and CI
-- Demonstrates prompt/spec design as an engineering artifact, not just prose
+An early architecture and prototype track for AI-native execution: capturing work signals, maintaining goal context, turning plans into protected time, and verifying AI-generated updates.
+
+Repo: https://github.com/rjballmer/ProjectOS
+
+### School Portal Digest
+
+A read-only OpenClaw skill that turns noisy school-portal updates into a parent-facing digest: action items, child-specific calendar signals, and lightweight check-in guidance.
 
 Repo: https://github.com/rjballmer/School-Portal-Digest
 
 ## What I care about
 
-I like systems that are boring in the right places: explicit contracts, testable assumptions, clear failure modes, small interfaces, and automation that knows when to stop and ask.
-
+I like systems that are boring in the right places: explicit contracts, small interfaces, inspectable state, clear failure modes, and automation that knows when to stop and ask.
