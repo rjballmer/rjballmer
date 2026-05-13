@@ -17,7 +17,7 @@ My current public work is a set of practical AI-native experiments for getting r
 
 An early architecture and prototype track for AI-native execution: capturing work signals, maintaining goal context, turning plans into protected time, and verifying AI-generated updates.
 
-Repo: https://github.com/rjballmer/ProjectOS
+Repo: https://github.com/rjballmer/GSD-AI
 
 ### School Portal Digest
 
