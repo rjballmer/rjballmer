@@ -2,6 +2,8 @@
 
 I build operating systems for complex technical work: hyperscale infrastructure programs, AI-enabled workflows, and agentic systems with clear safety boundaries.
 
+I like systems that are boring in the right places: explicit contracts, small interfaces, inspectable state, clear failure modes, and automation that knows when to stop and ask.
+
 My current public work is a set of practical AI-native experiments for getting real work done: turning noisy information into goals, plans, protected time, family logistics, wellness feedback, and verified action.
 
 ## Current focus
@@ -32,6 +34,3 @@ A read-only OpenClaw skill that turns noisy school-portal updates into a parent-
 
 Repo: https://github.com/rjballmer/School-Portal-Digest
 
-## What I care about
-
-I like systems that are boring in the right places: explicit contracts, small interfaces, inspectable state, clear failure modes, and automation that knows when to stop and ask.
