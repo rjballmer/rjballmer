@@ -19,6 +19,13 @@ An early architecture and prototype track for AI-native execution: capturing wor
 
 Repo: https://github.com/rjballmer/GSD-AI
 
+
+### HeartSync Preview
+
+A privacy-first measured-calm experiment using tactile breathing rhythms, body-aware feedback, and simple sessions for measuring and shaping state.
+
+Repo: https://github.com/rjballmer/heartsync-preview
+
 ### School Portal Digest
 
 A read-only OpenClaw skill that turns noisy school-portal updates into a parent-facing digest: action items, child-specific calendar signals, and lightweight check-in guidance.
