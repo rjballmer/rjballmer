@@ -1,7 +1,5 @@
 # Ryan Ballmer
 
-Hyperscale infrastructure leader sharing AI-native experiments for work, wellness, family life, and execution.
-
 I build operating systems for complex technical work: infrastructure programs, AI-enabled workflows, and agentic systems with clear safety boundaries.
 
 My recent public work focuses on practical AI systems that turn noisy real-world information into useful decisions without losing privacy, verification, or human control.
